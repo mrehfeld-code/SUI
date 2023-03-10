@@ -1,0 +1,7 @@
+# general build files
+build/
+
+# IDE cache dirs
+.vs/
+.vscode/
+.idea/
